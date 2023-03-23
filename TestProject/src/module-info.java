@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Windo
- *
- */
-module TestProject {
-}
